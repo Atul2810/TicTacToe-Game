@@ -1,0 +1,11 @@
+.cell{
+    height:100px;
+    width:100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:rgb(65, 94, 197);
+    color:white;
+    border-radius: 10px;
+    font-size: 30px;
+}

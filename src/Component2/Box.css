@@ -1,0 +1,17 @@
+.box{
+    width:30%;
+    margin: 0 auto;
+    margin-top:150px;
+}
+.board-row{
+    display: flex;
+    gap:10px;
+    margin-bottom: 10px;
+}
+.btn-style{
+    border:none;
+    border-radius: 5px;
+    background-color: rgb(35, 209, 35);
+    padding:8px 22px;
+    color:white;
+}
