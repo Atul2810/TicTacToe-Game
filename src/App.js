@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import Box from './Component2/Box'
+import Box from './Component/Box'
 import './index.css'
 function App() {
   return (
